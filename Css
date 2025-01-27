@@ -1,1 +1,10 @@
+:root {
+  --primary-black: #1a1a1a;       /* Syvä musta */
+  --walnut: #773f1a;             /* Pähkinäpuun sävy */
+  --burnt-orange: #cc5500;       /* Poltettu oranssi */
+  --wood-dark: #2c1a0d;          /* Tumma puusävy */
+}
 
+body {
+  background-color: var(--primary-black);
+}
